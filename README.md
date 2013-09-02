@@ -10,14 +10,14 @@ https://github.com/hxseven/htmlSQL
 
 パラメータは以下。
 -------------------------------------------------
-1.i … Pluginの名前をいれてください。
+i … Pluginの名前をいれてください。
 AdminCmd(http://dev.bukkit.org/bukkit-plugins/admincmd/)だったら
 admincmdってなります。つまり
 http://dev.bukkit.org/bukkit-plugins/ここの文字/
 の「ここの文字」の部分を入力します。
 
 
-2.m … モードです。verはバージョン、fnameはファイル名、dateは更新した時間を取得できます。
+m … モードです。verはバージョン、fnameはファイル名、dateは更新した時間を取得できます。
 
 -------------------------------------------------
 一応自分のサーバにも置いてます。
